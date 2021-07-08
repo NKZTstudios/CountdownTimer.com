@@ -1,0 +1,32 @@
+body {
+    background-color: #5cdb95;
+    font-size: large;
+    text-align: center;
+    font-family: Futura, Helvetica, Verdana;
+}
+h1 {
+    border-radius: 10px;
+    color: #edf5e1;
+}
+button {
+    background-color: #05386b;
+    border-radius: 10px;
+    color: #edf5e1;
+    font-size: 20px;
+}
+.base-timer {
+  position: relative;
+  height: 300px;
+  width: 300px;
+}
+.base-timer__circle {
+  fill: none;
+  stroke: none;
+}
+.base-timer__path-elapsed {
+  stroke-width: 7px;
+  stroke: grey;
+}
+.subscribe {
+  font-size: 60px;
+}
