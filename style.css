@@ -14,19 +14,6 @@ button {
     color: #edf5e1;
     font-size: 20px;
 }
-.base-timer {
-  position: relative;
-  height: 300px;
-  width: 300px;
-}
-.base-timer__circle {
-  fill: none;
-  stroke: none;
-}
-.base-timer__path-elapsed {
-  stroke-width: 7px;
-  stroke: grey;
-}
 .subscribe {
   font-size: 60px;
 }
